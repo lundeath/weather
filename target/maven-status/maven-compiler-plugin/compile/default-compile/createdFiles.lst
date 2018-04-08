@@ -1,0 +1,7 @@
+Observer\WeatherData.class
+Observer\WeatherStation.class
+Observer\Parser.class
+Observer\Observable.class
+Observer\Observer.class
+Observer\Parseable.class
+Observer\CurrentConditionsDisplay.class
